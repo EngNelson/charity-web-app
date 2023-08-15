@@ -1,11 +1,11 @@
-  =>  Cream Name    : CREAM -  NGO Website. 
+  => Name-Site: Cream-Cameroon -  NGO Website. 
 
-  =>   Link    : https://cream.com/cream-charity-website
+  => Link: https://www.Cream-Cameroon.cm
 
-  =>  Ngo License : https://htm cream.com/
+  => Ngo License : https://htm Cream-Cameroon.cm
 
-  =>  Nelson Bechem Author  : HTML Cream
+  => Developer: Nelson Bechem
 
-  =>  Author Website   : https://cream.com
+  => Author Website   : https://Cream-Cameroon.cm
 
-  =>  About HTML Cream : HTML Cream is one of the ngo's in cameroon, HTML landing pages, HTML email cream and HTML snippets in the world. Read more at ( https://cream.com/about-us )
+  => About HTML Cream : HTML Cream is one of the ngo's in cameroon, HTML landing pages, HTML email cream and HTML snippets in the world. Read more at ( https://cream.com/about-us )
